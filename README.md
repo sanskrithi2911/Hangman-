@@ -8,12 +8,12 @@ A simple text-based Hangman game where the player guesses a word letter by lette
 - 6 attempts limit
 - Console-based gameplay
 
-## How to Run
-```bash
- hangman.py
-
-## Concepts Used 
+## Concepts Used
 random
 loops
 strings
 lists
+
+## How to Run
+```bash
+ hangman.py
