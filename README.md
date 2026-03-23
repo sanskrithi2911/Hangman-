@@ -9,10 +9,10 @@ A simple text-based Hangman game where the player guesses a word letter by lette
 - Console-based gameplay
 
 ## Concepts Used
-random
-loops
-strings
-lists
+-random
+-loops
+-strings
+-lists
 
 ## How to Run
 ```bash
